@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name iss-lna)(type Legacy)(uri ${KIPRJMOD}/iss-lna.lib)(options "")(descr ""))
+)
