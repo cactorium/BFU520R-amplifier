@@ -989,4 +989,104 @@ Wire Wire Line
 	6450 5300 6450 5400
 Text Label 9700 2750 0    50   ~ 0
 VCC
+$Comp
+L Mechanical:MountingHole_Pad H1
+U 1 1 5D379C44
+P 1350 6100
+F 0 "H1" H 1350 6350 50  0000 C CNN
+F 1 "MountingHole_Pad" H 1350 6275 50  0000 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad" H 1350 6100 50  0001 C CNN
+F 3 "~" H 1350 6100 50  0001 C CNN
+F 4 "NoPart" H 1350 6100 50  0001 C CNN "Mouser"
+	1    1350 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR023
+U 1 1 5D37BB32
+P 1350 6300
+F 0 "#PWR023" H 1350 6050 50  0001 C CNN
+F 1 "GND" H 1350 6150 50  0000 C CNN
+F 2 "" H 1350 6300 50  0001 C CNN
+F 3 "" H 1350 6300 50  0001 C CNN
+	1    1350 6300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1350 6300 1350 6200
+$Comp
+L Mechanical:MountingHole_Pad H3
+U 1 1 5D380FA8
+P 2100 6100
+F 0 "H3" H 2100 6350 50  0000 C CNN
+F 1 "MountingHole_Pad" H 2100 6275 50  0000 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad" H 2100 6100 50  0001 C CNN
+F 3 "~" H 2100 6100 50  0001 C CNN
+F 4 "NoPart" H 2100 6100 50  0001 C CNN "Mouser"
+	1    2100 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR025
+U 1 1 5D380FAE
+P 2100 6300
+F 0 "#PWR025" H 2100 6050 50  0001 C CNN
+F 1 "GND" H 2100 6150 50  0000 C CNN
+F 2 "" H 2100 6300 50  0001 C CNN
+F 3 "" H 2100 6300 50  0001 C CNN
+	1    2100 6300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2100 6300 2100 6200
+$Comp
+L Mechanical:MountingHole_Pad H2
+U 1 1 5D3880F8
+P 1350 6850
+F 0 "H2" H 1350 7100 50  0000 C CNN
+F 1 "MountingHole_Pad" H 1350 7025 50  0000 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad" H 1350 6850 50  0001 C CNN
+F 3 "~" H 1350 6850 50  0001 C CNN
+F 4 "NoPart" H 1350 6850 50  0001 C CNN "Mouser"
+	1    1350 6850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR024
+U 1 1 5D3880FE
+P 1350 7050
+F 0 "#PWR024" H 1350 6800 50  0001 C CNN
+F 1 "GND" H 1350 6900 50  0000 C CNN
+F 2 "" H 1350 7050 50  0001 C CNN
+F 3 "" H 1350 7050 50  0001 C CNN
+	1    1350 7050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1350 7050 1350 6950
+$Comp
+L Mechanical:MountingHole_Pad H4
+U 1 1 5D388106
+P 2100 6850
+F 0 "H4" H 2100 7100 50  0000 C CNN
+F 1 "MountingHole_Pad" H 2100 7025 50  0000 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad" H 2100 6850 50  0001 C CNN
+F 3 "~" H 2100 6850 50  0001 C CNN
+F 4 "NoPart" H 2100 6850 50  0001 C CNN "Mouser"
+	1    2100 6850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR026
+U 1 1 5D38810C
+P 2100 7050
+F 0 "#PWR026" H 2100 6800 50  0001 C CNN
+F 1 "GND" H 2100 6900 50  0000 C CNN
+F 2 "" H 2100 7050 50  0001 C CNN
+F 3 "" H 2100 7050 50  0001 C CNN
+	1    2100 7050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2100 7050 2100 6950
 $EndSCHEMATC
