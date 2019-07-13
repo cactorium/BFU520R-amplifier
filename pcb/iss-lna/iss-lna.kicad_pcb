@@ -1653,7 +1653,7 @@
   (gr_text "U.FL calibration plane" (at 100.3 70.175) (layer F.SilkS)
     (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
-  (gr_text "BFU520R LNA Test Board, Rev. 1" (at 112.8 45.1) (layer F.SilkS)
+  (gr_text "BFU520R Amplifier Test Board, Rev. 1" (at 112.8 45.1) (layer F.SilkS)
     (effects (font (size 1.2 1.2) (thickness 0.15)))
   )
   (gr_text OUT (at 142.2 64.5) (layer F.SilkS)
